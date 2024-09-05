@@ -1,0 +1,206 @@
+body {
+    background-image: url(imgs/tile.png);
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    text-align: center;
+
+}
+
+.title {
+    font-family: times, helvetic, sans-serif;
+    font-size: 112px;
+    color: white;
+    text-align: center;
+    margin: 32px 0px 0px 0px;
+}
+
+.roles {
+    text-align: center;
+    color: #fff54f;
+    font-size: 40px;
+    margin: 0px;
+    font-weight: 400;
+}
+
+.walt1 {
+    margin-top: -16px;
+}
+
+ul {
+
+    list-style-type: none;
+}
+
+
+
+.walt-grid,
+.walt-grid2 {
+
+    vertical-align: top;
+    display: inline-block;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.walt5 {
+
+    align-self: center;
+    list-style-type: none;
+    padding-top: 20px;
+
+}
+
+.walt-grid2 {
+
+    padding: 20px 36px 0px 36px;
+}
+
+.yp1 {
+
+    color: #fff54f;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 280px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+
+.yp2 {
+    color: #fff54f;
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 280px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+.w1 {
+
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 280px;
+    line-height: 1.2em;
+    text-align: left;
+    margin-top: -35px;
+
+
+}
+
+.wall {
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 280px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+
+
+.cpl {
+
+
+    display: inline-block;
+    margin: 40px 95px;
+
+}
+
+.box2 {
+    margin-top: -40px;
+}
+
+.cuter {
+
+
+    display: block;
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 1.2em;
+    color: #fff54f;
+    background: url(imgs/bow_right.png) no-repeat 935px 132px;
+    padding: 20px;
+    margin-top: -40px;
+}
+
+.cutel {
+
+    background: url(imgs/bow_left.png) no-repeat 360px 70px;
+    padding: 20px
+}
+
+.can {
+
+    display: block;
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 1.2em;
+    color: #fff54f;
+    margin-top: -60px;
+
+
+}
+
+.can2 {
+    display: block;
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 1.2em;
+    color: #ffe107;
+
+}
+
+.donn {
+
+    padding-top: 35px;
+}
+
+.blk {
+
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    width: 860px;
+    height: 205px;
+    margin: 0px auto 0px auto;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.blk1 {
+
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.blk2 {
+
+    color: #fff54f;
+    font-weight: bold;
+    margin-top: -10px;
+}
+
+.crd {
+
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.links,
+.links23 {
+
+    color: white;
+}
+
+.links23 {
+
+    margin-left: 40px;
+}
+
+.cnt {
+
+
+    width: 150px;
+}
